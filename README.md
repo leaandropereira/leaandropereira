@@ -2,9 +2,9 @@
 
 **Engenheiro Ambiental** e **Desenvolvedor Full Stack Sênior** com foco em **GIS / Geotecnologias**, em Minas Gerais. Uno a visão ambiental com tecnologia, transformando dados geoespaciais em mapas web, ferramentas de análise e aplicações que ajudam a tomar decisões no território.
 
-## 🔥 Um Grau e Meio
+## 🔥 umgrauemeio
 
-Atualmente sou **Desenvolvedor Full Stack Sênior** na [**Um Grau e Meio**](https://www.umgrauemeio.com), onde desenvolvo a plataforma de **monitoramento e prevenção de incêndios**, que ajuda a detectar focos cedo e a agir mais rápido no campo.
+Atualmente sou **Desenvolvedor Full Stack Sênior** na [**umgrauemeio**](https://www.umgrauemeio.com), onde desenvolvo a plataforma de **monitoramento e prevenção de incêndios**, que ajuda a detectar focos cedo e a agir mais rápido no campo.
 
 ## 🗺️ geoStudio
 
@@ -35,5 +35,5 @@ Sou mantenedor da [**geoStudio**](https://www.geostudio.space), onde desenvolvo 
 
 ## 📫 Contato
 
-[![Um Grau e Meio](https://img.shields.io/badge/umgrauemeio.com-E4572E?style=flat-square&logo=googlechrome&logoColor=white)](https://www.umgrauemeio.com)
+[![umgrauemeio](https://img.shields.io/badge/umgrauemeio.com-E4572E?style=flat-square&logo=googlechrome&logoColor=white)](https://www.umgrauemeio.com)
 [![geoStudio](https://img.shields.io/badge/geostudio.space-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://www.geostudio.space)
