@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 130" width="480" height="130" role="img" aria-label="Ciclista de mountain bike pedalando numa trilha">
+<defs><clipPath id="c"><rect width="480" height="130" rx="12"/></clipPath>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b1a14"/><stop offset="1" stop-color="#10261d"/></linearGradient></defs>
+<style>
+.far{fill:#153326;animation:scroll 24s linear infinite}
+.mid{fill:#1b4232;animation:scroll 12s linear infinite}
+.near{animation:scroll 4s linear infinite}
+@keyframes scroll{to{transform:translateX(-480px)}}
+.tire{fill:none;stroke:#cfe8dc;stroke-width:3}
+.rim{fill:none;stroke:#3fae7c;stroke-width:1}
+.spin{stroke:#7fbfa2;stroke-width:.8;animation:spin .42s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.frame{fill:none;stroke:#ff7a2f;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}
+.leg{fill:none;stroke:#e6f4ec;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round}
+.legfar{fill:none;stroke:#8fb3a3;stroke-width:4.5;stroke-linecap:round;stroke-linejoin:round}
+.body{fill:none;stroke:#5eead4;stroke-width:6;stroke-linecap:round;stroke-linejoin:round}
+.arm{fill:none;stroke:#e6f4ec;stroke-width:3.5;stroke-linecap:round;stroke-linejoin:round}
+.crank{stroke:#cfe8dc;stroke-width:2;fill:none}
+.bob{animation:bob .45s ease-in-out infinite alternate}
+@keyframes bob{to{transform:translateY(1.2px)}}
+.dust{fill:#6b5b2a;opacity:0;animation:dust .9s ease-out infinite}
+@keyframes dust{0%{opacity:.7;transform:translate(0,0)}100%{opacity:0;transform:translate(-26px,-6px)}}
+</style>
+<g clip-path="url(#c)">
+<rect width="480" height="130" fill="url(#sky)"/>
+<circle cx="400" cy="30" r="12" fill="#ffe08a" opacity=".8"/>
+<g class="far"><polygon points="0,112 0,106 60,74 120,78 180,101 240,90 300,92 360,83 420,77 480,106 480,112"/><polygon points="480,112 480,106 540,74 600,78 660,101 720,90 780,92 840,83 900,77 960,106 960,112"/></g>
+<g class="mid"><polygon points="0,112 0,91 40,91 80,111 120,110 160,94 200,96 240,97 280,105 320,99 360,99 400,99 440,109 480,91 480,112"/><polygon points="480,112 480,91 520,91 560,111 600,110 640,94 680,96 720,97 760,105 800,99 840,99 880,99 920,109 960,91 960,112"/><path d="M6,108l-7.2,0l7.2,-21.6l7.2,21.6z"/><path d="M486,108l-7.2,0l7.2,-21.6l7.2,21.6z"/><path d="M31,108l-5.6,0l5.6,-16.8l5.6,16.8z"/><path d="M511,108l-5.6,0l5.6,-16.8l5.6,16.8z"/><path d="M112,108l-6.7,0l6.7,-20.1l6.7,20.1z"/><path d="M592,108l-6.7,0l6.7,-20.1l6.7,20.1z"/><path d="M114,108l-5.6,0l5.6,-16.9l5.6,16.9z"/><path d="M594,108l-5.6,0l5.6,-16.9l5.6,16.9z"/><path d="M124,108l-6.1,0l6.1,-18.4l6.1,18.4z"/><path d="M604,108l-6.1,0l6.1,-18.4l6.1,18.4z"/><path d="M178,108l-4.7,0l4.7,-14.0l4.7,14.0z"/><path d="M658,108l-4.7,0l4.7,-14.0l4.7,14.0z"/><path d="M261,108l-6.1,0l6.1,-18.3l6.1,18.3z"/><path d="M741,108l-6.1,0l6.1,-18.3l6.1,18.3z"/><path d="M290,108l-6.8,0l6.8,-20.4l6.8,20.4z"/><path d="M770,108l-6.8,0l6.8,-20.4l6.8,20.4z"/><path d="M300,108l-5.8,0l5.8,-17.3l5.8,17.3z"/><path d="M780,108l-5.8,0l5.8,-17.3l5.8,17.3z"/><path d="M402,108l-6.4,0l6.4,-19.3l6.4,19.3z"/><path d="M882,108l-6.4,0l6.4,-19.3l6.4,19.3z"/></g>
+<rect y="112" width="480" height="18" fill="#2a2414"/>
+<g class="near"><polyline points="0,112 20,110 40,112 60,110 80,112 100,110 120,112 140,110 160,112 180,110 200,112 220,110 240,112 260,110 280,112 300,110 320,112 340,110 360,112 380,110 400,112 420,110 440,112 460,110 480,112 500,110 520,112 540,110 560,112 580,110 600,112 620,110 640,112 660,110 680,112 700,110 720,112 740,110 760,112 780,110 800,112 820,110 840,112 860,110 880,112 900,110 920,112 940,110 960,112 980,110" fill="none" stroke="#6b5b2a" stroke-width="3"/><g fill="#4a3f22"><circle cx="13" cy="119" r="1.5"/><circle cx="493" cy="119" r="1.5"/><circle cx="50" cy="126" r="2.0"/><circle cx="530" cy="126" r="2.0"/><circle cx="87" cy="124" r="1.0"/><circle cx="567" cy="124" r="1.0"/><circle cx="124" cy="122" r="1.5"/><circle cx="604" cy="122" r="1.5"/><circle cx="161" cy="120" r="2.0"/><circle cx="641" cy="120" r="2.0"/><circle cx="198" cy="118" r="1.0"/><circle cx="678" cy="118" r="1.0"/><circle cx="235" cy="125" r="1.5"/><circle cx="715" cy="125" r="1.5"/><circle cx="272" cy="123" r="2.0"/><circle cx="752" cy="123" r="2.0"/><circle cx="309" cy="121" r="1.0"/><circle cx="789" cy="121" r="1.0"/><circle cx="346" cy="119" r="1.5"/><circle cx="826" cy="119" r="1.5"/><circle cx="383" cy="126" r="2.0"/><circle cx="863" cy="126" r="2.0"/><circle cx="420" cy="124" r="1.0"/><circle cx="900" cy="124" r="1.0"/><circle cx="457" cy="122" r="1.5"/><circle cx="937" cy="122" r="1.5"/></g></g>
+<g transform="translate(170,93)">
+<circle class="dust" cx="-4" cy="17" r="2"/><circle class="dust" cx="-2" cy="16" r="1.5" style="animation-delay:.3s"/><circle class="dust" cx="-6" cy="18" r="1.8" style="animation-delay:.6s"/>
+<g class="bob">
+<polyline class="legfar" points=""><animate attributeName="points" dur="0.9s" repeatCount="indefinite" values="15,-38 28.4,-20.6 14.0,-4.0 18.0,-4.0;15,-38 29.8,-21.7 14.3,-6.1 18.3,-6.1;15,-38 31.1,-23.0 15.1,-8.0 19.1,-8.0;15,-38 32.5,-24.6 16.3,-9.7 20.3,-9.7;15,-38 33.7,-26.4 18.0,-10.9 22.0,-10.9;15,-38 34.6,-28.1 19.9,-11.7 23.9,-11.7;15,-38 35.3,-29.5 22.0,-12.0 26.0,-12.0;15,-38 35.7,-30.4 24.1,-11.7 28.1,-11.7;15,-38 35.7,-30.7 26.0,-10.9 30.0,-10.9;15,-38 35.6,-30.2 27.7,-9.7 31.7,-9.7;15,-38 35.1,-29.1 28.9,-8.0 32.9,-8.0;15,-38 34.4,-27.6 29.7,-6.1 33.7,-6.1;15,-38 33.3,-25.8 30.0,-4.0 34.0,-4.0;15,-38 31.8,-23.8 29.7,-1.9 33.7,-1.9;15,-38 30.1,-22.0 28.9,0.0 32.9,0.0;15,-38 28.1,-20.3 27.7,1.7 31.7,1.7;15,-38 26.2,-19.1 26.0,2.9 30.0,2.9;15,-38 24.7,-18.3 24.1,3.7 28.1,3.7;15,-38 24.0,-17.9 22.0,4.0 26.0,4.0;15,-38 23.9,-17.9 19.9,3.7 23.9,3.7;15,-38 24.4,-18.1 18.0,2.9 22.0,2.9;15,-38 25.2,-18.5 16.3,1.7 20.3,1.7;15,-38 26.1,-19.0 15.1,-0.0 19.1,-0.0;15,-38 27.2,-19.7 14.3,-1.9 18.3,-1.9;15,-38 28.4,-20.6 14.0,-4.0 18.0,-4.0"/></polyline>
+<polyline class="crank" points=""><animate attributeName="points" dur="0.9s" repeatCount="indefinite" values="22,-4 14.0,-4.0;22,-4 14.3,-6.1;22,-4 15.1,-8.0;22,-4 16.3,-9.7;22,-4 18.0,-10.9;22,-4 19.9,-11.7;22,-4 22.0,-12.0;22,-4 24.1,-11.7;22,-4 26.0,-10.9;22,-4 27.7,-9.7;22,-4 28.9,-8.0;22,-4 29.7,-6.1;22,-4 30.0,-4.0;22,-4 29.7,-1.9;22,-4 28.9,0.0;22,-4 27.7,1.7;22,-4 26.0,2.9;22,-4 24.1,3.7;22,-4 22.0,4.0;22,-4 19.9,3.7;22,-4 18.0,2.9;22,-4 16.3,1.7;22,-4 15.1,-0.0;22,-4 14.3,-1.9;22,-4 14.0,-4.0"/></polyline>
+<g transform="translate(0,0)"><circle r="17" class="tire"/><circle r="14.5" class="rim"/><g class="spin"><line x1="0" y1="0" x2="15.0" y2="0.0"/><line x1="0" y1="0" x2="10.6" y2="10.6"/><line x1="0" y1="0" x2="0.0" y2="15.0"/><line x1="0" y1="0" x2="-10.6" y2="10.6"/><line x1="0" y1="0" x2="-15.0" y2="0.0"/><line x1="0" y1="0" x2="-10.6" y2="-10.6"/><line x1="0" y1="0" x2="-0.0" y2="-15.0"/><line x1="0" y1="0" x2="10.6" y2="-10.6"/></g></g><g transform="translate(56,0)"><circle r="17" class="tire"/><circle r="14.5" class="rim"/><g class="spin"><line x1="0" y1="0" x2="15.0" y2="0.0"/><line x1="0" y1="0" x2="10.6" y2="10.6"/><line x1="0" y1="0" x2="0.0" y2="15.0"/><line x1="0" y1="0" x2="-10.6" y2="10.6"/><line x1="0" y1="0" x2="-15.0" y2="0.0"/><line x1="0" y1="0" x2="-10.6" y2="-10.6"/><line x1="0" y1="0" x2="-0.0" y2="-15.0"/><line x1="0" y1="0" x2="10.6" y2="-10.6"/></g></g>
+<path class="frame" d="M0,0L22,-4L17,-30L45,-33L22,-4M0,0L17,-30M45,-33L56,0M45,-33L46,-40M42,-40L51,-40M17,-30L15,-35M11,-36L20,-36"/>
+<polyline class="body" points="15,-38 33,-55"/>
+<polyline class="arm" points="33,-55 45.8,-52.9 47,-40"/>
+<circle cx="38" cy="-63" r="6" fill="#e6f4ec"/>
+<path d="M31,-64a7.5,7.5 0 0,1 15,0l2,1z" fill="#ff7a2f"/>
+<polyline class="leg" points=""><animate attributeName="points" dur="0.9s" repeatCount="indefinite" values="15,-38 33.3,-25.8 30.0,-4.0 34.0,-4.0;15,-38 31.8,-23.8 29.7,-1.9 33.7,-1.9;15,-38 30.1,-22.0 28.9,-0.0 32.9,-0.0;15,-38 28.1,-20.3 27.7,1.7 31.7,1.7;15,-38 26.2,-19.1 26.0,2.9 30.0,2.9;15,-38 24.7,-18.3 24.1,3.7 28.1,3.7;15,-38 24.0,-17.9 22.0,4.0 26.0,4.0;15,-38 23.9,-17.9 19.9,3.7 23.9,3.7;15,-38 24.4,-18.1 18.0,2.9 22.0,2.9;15,-38 25.2,-18.5 16.3,1.7 20.3,1.7;15,-38 26.1,-19.0 15.1,-0.0 19.1,-0.0;15,-38 27.2,-19.7 14.3,-1.9 18.3,-1.9;15,-38 28.4,-20.6 14.0,-4.0 18.0,-4.0;15,-38 29.8,-21.7 14.3,-6.1 18.3,-6.1;15,-38 31.1,-23.0 15.1,-8.0 19.1,-8.0;15,-38 32.5,-24.6 16.3,-9.7 20.3,-9.7;15,-38 33.7,-26.4 18.0,-10.9 22.0,-10.9;15,-38 34.6,-28.1 19.9,-11.7 23.9,-11.7;15,-38 35.3,-29.5 22.0,-12.0 26.0,-12.0;15,-38 35.7,-30.4 24.1,-11.7 28.1,-11.7;15,-38 35.7,-30.7 26.0,-10.9 30.0,-10.9;15,-38 35.6,-30.2 27.7,-9.7 31.7,-9.7;15,-38 35.1,-29.1 28.9,-8.0 32.9,-8.0;15,-38 34.4,-27.6 29.7,-6.1 33.7,-6.1;15,-38 33.3,-25.8 30.0,-4.0 34.0,-4.0"/></polyline>
+<polyline class="crank" points=""><animate attributeName="points" dur="0.9s" repeatCount="indefinite" values="22,-4 30.0,-4.0;22,-4 29.7,-1.9;22,-4 28.9,-0.0;22,-4 27.7,1.7;22,-4 26.0,2.9;22,-4 24.1,3.7;22,-4 22.0,4.0;22,-4 19.9,3.7;22,-4 18.0,2.9;22,-4 16.3,1.7;22,-4 15.1,-0.0;22,-4 14.3,-1.9;22,-4 14.0,-4.0;22,-4 14.3,-6.1;22,-4 15.1,-8.0;22,-4 16.3,-9.7;22,-4 18.0,-10.9;22,-4 19.9,-11.7;22,-4 22.0,-12.0;22,-4 24.1,-11.7;22,-4 26.0,-10.9;22,-4 27.7,-9.7;22,-4 28.9,-8.0;22,-4 29.7,-6.1;22,-4 30.0,-4.0"/></polyline>
+<circle cx="22" cy="-4" r="2.5" fill="#cfe8dc"/>
+</g>
+</g>
+<rect x=".5" y=".5" width="479" height="129" rx="12" fill="none" stroke="#1f3b30"/>
+</g>
+</svg>
