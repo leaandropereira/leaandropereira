@@ -1,11 +1,18 @@
 # Olá, eu sou o Leandro 👋
 
-Desenvolvedor **GIS / Geotecnologias** em Minas Gerais. Trabalho transformando dados geoespaciais em mapas web, ferramentas de análise e aplicações que ajudam a tomar decisões no território.
+Desenvolvedor **Full Stack Sênior** com foco em **GIS / Geotecnologias**, em Minas Gerais. Trabalho transformando dados geoespaciais em mapas web, ferramentas de análise e aplicações que ajudam a tomar decisões no território.
 
-- 🗺️ WebGIS com **Leaflet** e **Mapbox GL JS**
-- 📦 Dados geoespaciais modernos: **GeoParquet**, GeoJSON, processamento com **Python / ArcPy**
-- ⚙️ Back-end e APIs com **FastAPI** e **Django**
-- 🏢 Fundador da [**geoStudio**](https://www.geostudio.space)
+## 🔥 Um Grau e Meio
+
+Atualmente sou **Desenvolvedor Full Stack Sênior** na [**Um Grau e Meio**](https://www.umgrauemeio.com), onde desenvolvo a plataforma de **monitoramento e prevenção de incêndios**, que ajuda a detectar focos cedo e a agir mais rápido no campo.
+
+## 🗺️ geoStudio
+
+Sou mantenedor da [**geoStudio**](https://www.geostudio.space), onde desenvolvo soluções em geotecnologia:
+
+- WebGIS com **Leaflet** e **Mapbox GL JS**
+- Dados geoespaciais modernos: **GeoParquet**, GeoJSON, processamento com **Python / ArcPy**
+- APIs e back-end com **FastAPI** e **Django**
 
 ## 🛠️ Stack
 
@@ -22,16 +29,7 @@ Desenvolvedor **GIS / Geotecnologias** em Minas Gerais. Trabalho transformando d
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 📌 Projetos em destaque
-
-| Projeto | Descrição |
-|---|---|
-| [**SIGCemiterio**](https://github.com/leaandropereira/SIGCemiterio) | Sistema de informação geográfica para gestão de cemitérios, em Leaflet, com geolocalização e funcionamento offline (PWA). |
-| [**360view**](https://github.com/leaandropereira/360view) | Visualizador de panoramas 360° com Pannellum e notebooks de processamento das imagens. |
-| [**hillston**](https://github.com/leaandropereira/hillston) | Mapa web interativo em Leaflet com camadas temáticas e legenda. |
-| [**IC-SAOJOAO**](https://github.com/leaandropereira/IC-SAOJOAO) | WebGIS de iniciação científica com ferramentas de medição e localização. |
-| [**mapbox**](https://github.com/leaandropereira/mapbox) | Experimentos com Mapbox GL JS. |
-
 ## 📫 Contato
 
-[![Site](https://img.shields.io/badge/geostudio.space-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://www.geostudio.space)
+[![Um Grau e Meio](https://img.shields.io/badge/umgrauemeio.com-E4572E?style=flat-square&logo=googlechrome&logoColor=white)](https://www.umgrauemeio.com)
+[![geoStudio](https://img.shields.io/badge/geostudio.space-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://www.geostudio.space)
