@@ -40,3 +40,9 @@ Sou mantenedor da [**geoStudio**](https://www.geostudio.space), onde desenvolvo 
 [![Email](https://img.shields.io/badge/leandro.geodev@gmail.com-1E88E5?style=flat-square&logo=gmail&logoColor=white)](mailto:leandro.geodev@gmail.com)
 [![umgrauemeio](https://img.shields.io/badge/umgrauemeio.com-E4572E?style=flat-square&logo=googlechrome&logoColor=white)](https://www.umgrauemeio.com)
 [![geoStudio](https://img.shields.io/badge/geostudio.space-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://www.geostudio.space)
+
+## 🎯 Hobbies
+
+Fora do código, você me encontra numa trilha de 🚵 **MTB**, pensando no próximo lance de ♟️ **xadrez** ou em cima de um 🛹 **skate**.
+
+<p align="center"><img src="./mtb.svg" alt="Ciclista de mountain bike pedalando numa trilha" width="480"/></p>
