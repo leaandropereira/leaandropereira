@@ -33,5 +33,6 @@ Sou mantenedor da [**geoStudio**](https://www.geostudio.space), onde desenvolvo 
 
 ## 📫 Contato
 
+[![Email](https://img.shields.io/badge/leandro.geodev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:leandro.geodev@gmail.com)
 [![umgrauemeio](https://img.shields.io/badge/umgrauemeio.com-E4572E?style=flat-square&logo=googlechrome&logoColor=white)](https://www.umgrauemeio.com)
 [![geoStudio](https://img.shields.io/badge/geostudio.space-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://www.geostudio.space)
