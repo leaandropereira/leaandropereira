@@ -1,6 +1,6 @@
 # Olá, eu sou o Leandro 👋
 
-Desenvolvedor **Full Stack Sênior** com foco em **GIS / Geotecnologias**, em Minas Gerais. Trabalho transformando dados geoespaciais em mapas web, ferramentas de análise e aplicações que ajudam a tomar decisões no território.
+**Engenheiro Ambiental** e **Desenvolvedor Full Stack Sênior** com foco em **GIS / Geotecnologias**, em Minas Gerais. Uno a visão ambiental com tecnologia, transformando dados geoespaciais em mapas web, ferramentas de análise e aplicações que ajudam a tomar decisões no território.
 
 ## 🔥 Um Grau e Meio
 
