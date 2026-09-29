@@ -14,10 +14,6 @@ Sou mantenedor da [**geoStudio**](https://www.geostudio.space), onde desenvolvo 
 - Dados geoespaciais modernos: **GeoParquet**, GeoJSON, processamento com **Python / ArcPy**
 - APIs e back-end com **FastAPI** e **Django**
 
-## 🎓 Formação
-
-**Engenharia Ambiental** — Universidade Federal de Alfenas (UNIFAL-MG), 2023
-
 ## 🛠️ Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
