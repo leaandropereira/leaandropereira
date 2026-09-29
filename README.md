@@ -1,3 +1,5 @@
+<p align="center"><img src="./banner.svg" alt="Mapa animado de monitoramento de focos de calor no Brasil" width="100%"/></p>
+
 # Olá, eu sou o Leandro 👋
 
 **Engenheiro Ambiental** e **Desenvolvedor Full Stack Sênior** com foco em **GIS / Geotecnologias**, em Minas Gerais. Uno a visão ambiental com tecnologia, transformando dados geoespaciais em mapas web, ferramentas de análise e aplicações que ajudam a tomar decisões no território.
