@@ -43,6 +43,6 @@ Sou mantenedor da [**geoStudio**](https://www.geostudio.space), onde desenvolvo 
 
 ## 🎯 Hobbies
 
-Fora do código, você me encontra numa trilha de 🚵 **MTB**, pensando no próximo lance de ♟️ **xadrez** ou em cima de um 🛹 **skate**.
+🚵 MTB · ♟️ Xadrez · 🛹 Skate
 
-<p align="center"><img src="./mtb.svg" alt="Ciclista de mountain bike pedalando numa trilha" width="480"/></p>
+<p align="center"><img src="./mtb.svg" alt="Ciclista de mountain bike pedalando numa trilha" width="200"/></p>
